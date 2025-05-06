@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\laragon\www\uts pr\uts pr.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/adi/semester 4/pweb/uts pr]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/adi/semester 4/pweb/uts pr]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\laragon\www\uts pr\resources\views\login.blade.php"/>
+  <file name="C:\laragon\www\uts pr\resources\views\components\navbar.blade.php"/>
+  <file name="C:\laragon\www\uts pr\resources\views\components\footer.blade.php"/>
+  <file name="C:\laragon\www\uts pr\resources\views\dashboard.blade.php"/>
+  <file name="C:\laragon\www\uts pr\resources\views\pengelolaan.blade.php"/>
+  <file name="C:\laragon\www\uts pr\app\Http\Controllers\PageController.php"/>
+  <file name="C:\laragon\www\uts pr\resources\views\layouts\app.blade.php"/>
+  <file name="C:\laragon\www\uts pr\resources\views\profile.blade.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock/>
+ <dbgurls/>
+ <lasttime value="1746521848"/>
+</project>

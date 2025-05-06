@@ -1,0 +1,21 @@
+
+<codestructure version="2.1.0">
+<phptree>
+<treenode node="../../app/Http/Controllers/PageController.php;PHP:PHP Include;104752194;f9;2;54;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="components/footer.blade.php;PHP:PHP Include;768731257;f9;52;36;52;;910099094;f9;64;36;64;;104752194;f9;24;36;24;;4208304289;f9;35;36;35;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="components/navbar.blade.php;PHP:PHP Include;910099094;f9;2;36;2;;104752194;f9;1;36;1;;4208304289;f9;1;36;1;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+<treenode node="sendForm;PHP:Function Name;768731257;f0;2;1;5;;;;vpos;;v;;a;;r;;d38,2;;b0,0;;m0;;e0;;i0;;o;;k;;lusername;;ppassword;;p;;x;;x;;n">
+<treenode node="/app/Http/Controllers/PageController.php;PHP:PHP Include;768731257;f10;4;50;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</treenode>
+</phptree>
+<jstree>
+<treenode node="sendForm;JS:Function Name;768731257;f0;15;3;18;;;;vpos;;v;;aObject_;;c;;r;;d2,16;;b0,0;;m0;;e0;;i0;;o;;k;;l;;n">
+</treenode>
+</jstree>
+<pythontree>
+</pythontree>
+</codestructure>
